@@ -99,6 +99,8 @@ Review visuals and filters, or connect your own data
 This project is provided for educational and portfolio use only. Check the Kaggle dataset license before reusing commercially.
 
 🙋‍♀️ Author
-Dilsha Nethmini
-Business Analyst | Data Visualization Enthusiast
-🌍 Sri Lanka
+**Dilsha Nethmini**  
+📊 Business Analyst | 💡 Tableau & Power BI Explorer  
+📍 Based in Sri Lanka  
+🔗 [Connect with me on LinkedIn](www.linkedin.com/in/dilsha-de-silva-9554a6315)
+
