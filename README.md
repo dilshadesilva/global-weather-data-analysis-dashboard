@@ -6,7 +6,7 @@ A Tableau dashboard to visualize global weather data using charts and analysis
 
 ![Dashboard Screenshot](./Dashboard.png.png)
 
-🌍 Project Overview
+## 🌍 Project Overview
 
 This Tableau dashboard visualizes global weather data to understand trends in temperature, humidity, wind speed, and weather conditions across different countries and locations. The dataset was sourced from Kaggle and cleaned before visualization.
 
@@ -35,12 +35,12 @@ The dashboard helps users explore:
 
 ## 📊 Visuals Created in Tableau
 
-1. N Most Windy Countries (Dynamic Bar Chart)
+1. **N Most Windy Countries (Dynamic Bar Chart)**
    - Bar chart that changes based on a user-selected `N`
    - Rows: `Country`
    - Columns: `Wind speed`
 
-2. Temperature by Country** (Map)
+2. **Temperature by Country** (Map)
    - Columns: `AVG(Longitude)`
    - Rows: `AVG(Latitude)`
    - Size/Color: `Temperature`
