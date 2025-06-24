@@ -100,7 +100,7 @@ This project is provided for educational and portfolio use only. Check the Kaggl
 
 🙋‍♀️ Author
 **Dilsha Nethmini**  
-📊 Business Analyst | 💡 Tableau & Power BI Explorer  
+📊 Business Analyst | 💡 Data Enthusiast  
 📍 Based in Sri Lanka  
 🔗 [Connect with me on LinkedIn](www.linkedin.com/in/dilsha-de-silva-9554a6315)
 
